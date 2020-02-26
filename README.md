@@ -9,4 +9,4 @@ The project folder contains the input files given with the problem statement. In
 ## Links
 
 * The public scoreboard for the competition is accessible [here](https://hashcodejudge.withgoogle.com/scoreboard).
-* The team members of "Copenhagen Goofies" are [Sinan Oz](https://github.com/sinanoz1980), [Mohsen Asfia](), and [Mygeen](https://github.com/Mygeen).
+* The team members of "Copenhagen Goofies" are [Sinan Oz](https://github.com/sinanoz1980), [Mohsen Asfia](https://github.com/mohsenasfia), and [Mygeen](https://github.com/Mygeen).
